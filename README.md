@@ -1,5 +1,5 @@
 # Remote_RedLine
-Batch Script to drop and Run RedLine remote.
+Modified Batch Script to drop and Run RedLine remote.
 
 Scipt requires you to have Admin level access and WMI open on source and destination machines
 
