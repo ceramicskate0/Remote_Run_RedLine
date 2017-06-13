@@ -6,8 +6,11 @@ The term dropper here is used to describe the deployment packages that the redli
 
 # Requirements
 -Scipt requires you to have Admin rights,Access, and WMI open on source and destination machines.
+
   -Yes you can modify the script to run PsExec instead of wmi by replacing any wmic calls with PsExec and keeping the same args.
+  
 -Please run setup file to create the pre reqs
+
 -For email to work you will need to allow smtp relay on a mail server you tell it to send emails to
 
 The tool RedLine made by FireEye can be found here: https://www.fireeye.com/services/freeware/redline.html
