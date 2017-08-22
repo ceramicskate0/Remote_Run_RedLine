@@ -11,7 +11,7 @@ The term dropper here is used to describe the deployment packages that the redli
   
 -Please run setup file to create the pre reqs
 
--For email to work you will need to allow smtp relay on a mail server you tell it to send emails to
+-For email to work you will need to allow smtp relay on a mail server you tell it to send emails to and setup email script or args in bat file
 
 # Where to get RedLine
 The tool RedLine made by FireEye can be found here: https://www.fireeye.com/services/freeware/redline.html
